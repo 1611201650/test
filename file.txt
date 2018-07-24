@@ -1,6 +1,9 @@
 just test for git
+<<<<<<< HEAD
 
 the second line 
 
 the third line
 `
+=======
+>>>>>>> parent of 9bb5327... add a line
