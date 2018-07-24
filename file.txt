@@ -8,7 +8,7 @@ the second line
 
 the third line
 <<<<<<< HEAD
-
+the forth line
 =======
 `
 =======
