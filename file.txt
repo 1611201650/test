@@ -1,6 +1,16 @@
 just test for git
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 59afa8b... just resolve the problem
 
 the second line 
 
 the third line
+<<<<<<< HEAD
 
+=======
+`
+=======
+>>>>>>> parent of 9bb5327... add a line
+>>>>>>> parent of 59afa8b... just resolve the problem
